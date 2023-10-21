@@ -1,3 +1,5 @@
-module github.com/YOUR-USER-OR-ORG-NAME/YOUR-REPO-NAME
+module github.com/learn-frame/learn-go
 
-go 1.19
+go 1.21
+
+require golang.org/x/exp v0.0.0-20230905200255-921286631fa9
