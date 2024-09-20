@@ -1,4 +1,4 @@
-module github.com/learn-frame/learn-go
+module learn-go
 
 go 1.21
 
